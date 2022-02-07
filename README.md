@@ -1,1 +1,1 @@
-# 2019ISE0053_gana
+# image generator using python and image generator software
